@@ -1,0 +1,33 @@
+_repo: Narrative-of-Services-in-the-Liberation-of-Chili-Peru-and-Brazil-from-Spanish-and-Portuguese-__14914
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dundonald, Thomas Cochrane, Earl of
+    alias: Cochrane, Thomas, Lord
+    birthdate: 1775
+    deathdate: 1860
+    gutenberg_agent_id: '5543'
+    url: http://www.gutenberg.org/2009/agents/5543
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald
+description: ''
+gutenberg_issued: '2005-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14914'
+  lccn: '01021651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- History -- Empire, 1822-1889'
+- !lcsh 'Peru -- History -- War of Independence, 1820-1829'
+- !lcc 'F2201'
+- !lcsh 'Chile -- History -- War of Independence, 1810-1824'
+title: 'Narrative of Services in the Liberation of Chili, Peru and Brazil,
+
+  from Spanish and Portuguese Domination, Volume 1'
+url: http://www.gutenberg.org/ebooks/14914
