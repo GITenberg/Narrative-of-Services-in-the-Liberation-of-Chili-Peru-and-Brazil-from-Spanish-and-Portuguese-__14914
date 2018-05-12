@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5543
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Cochrane,_10th_Earl_of_Dundonald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14914#Narrative-of-Services-in-the-Liberation-of-Chili-Peru-and-Brazil-from-Spanish-and-Portuguese-_
 gutenberg_issued: '2005-02-05'
 gutenberg_type: Text
 identifiers:
